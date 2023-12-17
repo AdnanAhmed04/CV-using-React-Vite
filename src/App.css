@@ -1,0 +1,77 @@
+body {
+  margin-left: 4px;
+  background-color: rgb(7, 80, 129);
+
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+}
+
+.row-alignment {
+  display: flex;
+  justify-content: space-around;
+}
+
+img {
+  border-radius: 100%;
+  /* overflow: visible; */
+}
+
+
+.left {
+  margin: 2px;
+  width: 35%;
+  color: lightgray;
+
+}
+
+.objective {
+  color: lightgray;
+  background-color: rgb(4, 56, 91);
+  margin-top: 20px;
+
+}
+
+
+.right {
+  background-color: white;
+  margin: 2px;
+  width: 65%;
+
+
+}
+
+ul {
+  list-style-type: none;
+}
+
+div {
+  border-radius: 0.5%;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+p,
+li {
+  font-size: small;
+  /* color: aliceblue; */
+}
+
+li {
+  margin-left: -25px;
+
+
+}
+
+.white-bg {
+  background-color: white;
+}
+
+h1,
+h2,
+h3,
+p {
+  margin-left: 12px;
+}
